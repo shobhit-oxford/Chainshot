@@ -1,0 +1,3 @@
+# Chainshot
+  publicX: '7dd89704f3de3fe63734cc694d76b882ecf58b851a295023d4a80f61eb07b727',
+  publicY: '2be0fa66e66cffffda3702a4fa987e45f07e4a21f750fc7ad14024b0030f8126'
